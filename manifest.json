@@ -7,12 +7,12 @@
     "display":"standalone",
     "icons":[
         {
-        "src":"demo-one-page/agency/images/logo641.png",
+        "src":"demo-one-page/agency/images/logo64.png",
         "sizes":"64x64",
         "type":"image/png"
     },
     {
-        "src":"demo-one-page/agency/images/logo64.png",
+        "src":"demo-one-page/agency/images/logo641.png",
         "sizes":"512x512",
         "type":"image/png"  
     }
